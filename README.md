@@ -13,7 +13,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg />
  <img align="center" alt="MongoDB" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="Behance" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
 </div>
  
  <br/>
